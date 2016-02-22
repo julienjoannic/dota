@@ -1,1 +1,1 @@
-[Preview!](grille.png)
+![Preview](grille.png)
